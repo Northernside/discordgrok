@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "mineflayer": "^4.30.0",
+    "openai": "^5.9.2"
+  },
+  "name": "discordgrok",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
